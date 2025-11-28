@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<pre id="logs">Loading…</pre>
+
+<script>
+fetch("data.json")
+  .then(r => r.json())
+  .then(j => {
+      document.getElementById("logs").textContent =
+          JSON.stringify(j, null, 2);
+  });
+</script>
+</body>
+</html>
