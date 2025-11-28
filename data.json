@@ -1,0 +1,159 @@
+{
+  "lastUpdated": "2025-11-28T05:39:01.564Z",
+  "totalRecords": 19,
+  "dateRange": "Last 7 days",
+  "punchLogs": [
+    {
+      "punchId": "19",
+      "employeeId": "10",
+      "punchTimeMinute": "606",
+      "createdAt": "2025-11-28T04:36:41.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "18",
+      "employeeId": "13",
+      "punchTimeMinute": "606",
+      "createdAt": "2025-11-28T04:36:34.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "17",
+      "employeeId": "11",
+      "punchTimeMinute": "593",
+      "createdAt": "2025-11-28T04:23:02.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "16",
+      "employeeId": "7",
+      "punchTimeMinute": "591",
+      "createdAt": "2025-11-28T04:21:08.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "15",
+      "employeeId": "12",
+      "punchTimeMinute": "585",
+      "createdAt": "2025-11-28T04:15:53.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "14",
+      "employeeId": "6",
+      "punchTimeMinute": "575",
+      "createdAt": "2025-11-28T04:05:28.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "7",
+      "employeeId": "7",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:35.000Z",
+      "updatedAt": "2025-11-27T11:40:35.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "10",
+      "employeeId": "6",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:25.000Z",
+      "updatedAt": "2025-11-27T11:40:25.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "11",
+      "employeeId": "11",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:21.000Z",
+      "updatedAt": "2025-11-27T11:40:21.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "13",
+      "employeeId": "13",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:17.000Z",
+      "updatedAt": "2025-11-27T11:40:17.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "8",
+      "employeeId": "10",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:08.000Z",
+      "updatedAt": "2025-11-27T11:40:08.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "9",
+      "employeeId": "12",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-27T11:40:02.000Z",
+      "updatedAt": "2025-11-27T11:40:02.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "12",
+      "employeeId": "14",
+      "punchTimeMinute": "605",
+      "createdAt": "2025-11-27T04:35:54.000Z",
+      "updatedAt": "2025-11-27T04:35:54.000Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "4",
+      "employeeId": "7",
+      "punchTimeMinute": "1043",
+      "createdAt": "2025-11-26T11:53:29.000Z",
+      "updatedAt": "2025-11-26T11:53:29.000Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "1",
+      "employeeId": "6",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-26T11:40:33.000Z",
+      "updatedAt": "2025-11-26T11:40:33.000Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "6",
+      "employeeId": "14",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-26T11:40:23.000Z",
+      "updatedAt": null,
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "5",
+      "employeeId": "11",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-26T11:40:19.000Z",
+      "updatedAt": "2025-11-26T11:40:19.000Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "2",
+      "employeeId": "12",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-26T11:40:10.000Z",
+      "updatedAt": "2025-11-26T11:40:10.000Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "3",
+      "employeeId": "10",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-26T11:40:04.000Z",
+      "updatedAt": "2025-11-26T11:40:04.000Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    }
+  ]
+}
