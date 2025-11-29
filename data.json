@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-29T04:41:07.623Z",
-  "totalRecords": 37,
+  "lastUpdated": "2025-11-29T04:49:03.476Z",
+  "totalRecords": 62,
   "dateRange": "Last 7 days",
   "punchLogs": [
     {
@@ -42,6 +42,46 @@
       "createdAt": "2025-11-29T04:07:38.000Z",
       "updatedAt": null,
       "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "80",
+      "employeeId": "6",
+      "punchTimeMinute": "577",
+      "createdAt": "2025-11-29T04:43:24.487Z",
+      "updatedAt": "2025-11-29T04:43:24.487Z",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "79",
+      "employeeId": "10",
+      "punchTimeMinute": "577",
+      "createdAt": "2025-11-29T04:43:24.486Z",
+      "updatedAt": "2025-11-29T04:43:24.486Z",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "78",
+      "employeeId": "12",
+      "punchTimeMinute": "585",
+      "createdAt": "2025-11-29T04:43:24.484Z",
+      "updatedAt": "2025-11-29T04:43:24.484Z",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "77",
+      "employeeId": "11",
+      "punchTimeMinute": "586",
+      "createdAt": "2025-11-29T04:43:24.483Z",
+      "updatedAt": "2025-11-29T04:43:24.483Z",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "76",
+      "employeeId": "13",
+      "punchTimeMinute": "587",
+      "createdAt": "2025-11-29T04:43:24.466Z",
+      "updatedAt": "2025-11-29T04:43:24.466Z",
+      "punchDate": "2025-11-27T18:30:00.000Z"
     },
     {
       "punchId": "63",
@@ -90,6 +130,46 @@
       "createdAt": "2025-11-28T04:21:08.000Z",
       "updatedAt": null,
       "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "85",
+      "employeeId": "10",
+      "punchTimeMinute": "1026",
+      "createdAt": "2025-11-29T04:43:24.492Z",
+      "updatedAt": "2025-11-29T04:43:24.492Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "84",
+      "employeeId": "11",
+      "punchTimeMinute": "1027",
+      "createdAt": "2025-11-29T04:43:24.491Z",
+      "updatedAt": "2025-11-29T04:43:24.491Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "83",
+      "employeeId": "6",
+      "punchTimeMinute": "1027",
+      "createdAt": "2025-11-29T04:43:24.490Z",
+      "updatedAt": "2025-11-29T04:43:24.490Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "82",
+      "employeeId": "12",
+      "punchTimeMinute": "1027",
+      "createdAt": "2025-11-29T04:43:24.489Z",
+      "updatedAt": "2025-11-29T04:43:24.489Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
+    },
+    {
+      "punchId": "81",
+      "employeeId": "13",
+      "punchTimeMinute": "1027",
+      "createdAt": "2025-11-29T04:43:24.488Z",
+      "updatedAt": "2025-11-29T04:43:24.488Z",
+      "punchDate": "2025-11-26T18:30:00.000Z"
     },
     {
       "punchId": "70",
@@ -196,6 +276,54 @@
       "punchDate": "2025-11-26T18:30:00.000Z"
     },
     {
+      "punchId": "91",
+      "employeeId": "10",
+      "punchTimeMinute": "606",
+      "createdAt": "2025-11-29T04:43:24.499Z",
+      "updatedAt": "2025-11-29T04:43:24.499Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "90",
+      "employeeId": "13",
+      "punchTimeMinute": "606",
+      "createdAt": "2025-11-29T04:43:24.497Z",
+      "updatedAt": "2025-11-29T04:43:24.497Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "89",
+      "employeeId": "11",
+      "punchTimeMinute": "593",
+      "createdAt": "2025-11-29T04:43:24.497Z",
+      "updatedAt": "2025-11-29T04:43:24.497Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "88",
+      "employeeId": "7",
+      "punchTimeMinute": "591",
+      "createdAt": "2025-11-29T04:43:24.496Z",
+      "updatedAt": "2025-11-29T04:43:24.496Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "87",
+      "employeeId": "12",
+      "punchTimeMinute": "585",
+      "createdAt": "2025-11-29T04:43:24.495Z",
+      "updatedAt": "2025-11-29T04:43:24.495Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
+      "punchId": "86",
+      "employeeId": "6",
+      "punchTimeMinute": "575",
+      "createdAt": "2025-11-29T04:43:24.494Z",
+      "updatedAt": "2025-11-29T04:43:24.494Z",
+      "punchDate": "2025-11-25T18:30:00.000Z"
+    },
+    {
       "punchId": "51",
       "employeeId": "14",
       "punchTimeMinute": "605",
@@ -252,6 +380,30 @@
       "punchDate": "2025-11-25T18:30:00.000Z"
     },
     {
+      "punchId": "94",
+      "employeeId": "7",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.508Z",
+      "updatedAt": "2025-11-29T04:43:24.508Z",
+      "punchDate": "2025-11-24T18:30:00.000Z"
+    },
+    {
+      "punchId": "93",
+      "employeeId": "13",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.506Z",
+      "updatedAt": "2025-11-29T04:43:24.506Z",
+      "punchDate": "2025-11-24T18:30:00.000Z"
+    },
+    {
+      "punchId": "92",
+      "employeeId": "14",
+      "punchTimeMinute": "605",
+      "createdAt": "2025-11-29T04:43:24.504Z",
+      "updatedAt": "2025-11-29T04:43:24.504Z",
+      "punchDate": "2025-11-24T18:30:00.000Z"
+    },
+    {
       "punchId": "57",
       "employeeId": "10",
       "punchTimeMinute": "1030",
@@ -298,6 +450,54 @@
       "createdAt": "2025-11-28T11:11:15.403Z",
       "updatedAt": "2025-11-28T11:11:15.403Z",
       "punchDate": "2025-11-24T18:30:00.000Z"
+    },
+    {
+      "punchId": "100",
+      "employeeId": "7",
+      "punchTimeMinute": "1043",
+      "createdAt": "2025-11-29T04:43:24.515Z",
+      "updatedAt": "2025-11-29T04:43:24.515Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
+    },
+    {
+      "punchId": "99",
+      "employeeId": "6",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.514Z",
+      "updatedAt": "2025-11-29T04:43:24.514Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
+    },
+    {
+      "punchId": "98",
+      "employeeId": "14",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.513Z",
+      "updatedAt": "2025-11-29T04:43:24.513Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
+    },
+    {
+      "punchId": "97",
+      "employeeId": "11",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.511Z",
+      "updatedAt": "2025-11-29T04:43:24.511Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
+    },
+    {
+      "punchId": "96",
+      "employeeId": "12",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.510Z",
+      "updatedAt": "2025-11-29T04:43:24.510Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
+    },
+    {
+      "punchId": "95",
+      "employeeId": "10",
+      "punchTimeMinute": "1030",
+      "createdAt": "2025-11-29T04:43:24.509Z",
+      "updatedAt": "2025-11-29T04:43:24.509Z",
+      "punchDate": "2025-11-23T18:30:00.000Z"
     }
   ]
 }
