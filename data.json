@@ -1,4 +1,108 @@
 {
-  "lastUpdated": "2025-11-29T10:19:42.854Z",
-  "punchLogs": []
+  "lastUpdated": "2025-11-29T10:19:43.996Z",
+  "totalRecords": 17,
+  "punchLogs": [
+    {
+      "punchId": "17",
+      "employeeId": "7",
+      "punchTimeMinutes": "605",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "16",
+      "employeeId": "13",
+      "punchTimeMinutes": "587",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "15",
+      "employeeId": "11",
+      "punchTimeMinutes": "586",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "14",
+      "employeeId": "12",
+      "punchTimeMinutes": "585",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "13",
+      "employeeId": "10",
+      "punchTimeMinutes": "577",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "12",
+      "employeeId": "6",
+      "punchTimeMinutes": "577",
+      "punchDate": "2025-11-28T18:30:00.000Z"
+    },
+    {
+      "punchId": "11",
+      "employeeId": "13",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "10",
+      "employeeId": "12",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "9",
+      "employeeId": "6",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "8",
+      "employeeId": "11",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "7",
+      "employeeId": "10",
+      "punchTimeMinutes": "1026",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "6",
+      "employeeId": "10",
+      "punchTimeMinutes": "606",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "5",
+      "employeeId": "13",
+      "punchTimeMinutes": "606",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "4",
+      "employeeId": "11",
+      "punchTimeMinutes": "593",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "3",
+      "employeeId": "7",
+      "punchTimeMinutes": "591",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "2",
+      "employeeId": "12",
+      "punchTimeMinutes": "585",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    },
+    {
+      "punchId": "1",
+      "employeeId": "6",
+      "punchTimeMinutes": "575",
+      "punchDate": "2025-11-27T18:30:00.000Z"
+    }
+  ]
 }
