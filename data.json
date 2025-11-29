@@ -1,4 +1,108 @@
 {
-  "lastUpdated": "2025-11-29T10:44:38.463Z",
-  "punchLogs": []
+  "lastUpdated": "2025-11-29T10:44:39.882Z",
+  "totalRecords": 17,
+  "punchLogs": [
+    {
+      "punchId": "17",
+      "employeeId": "7",
+      "punchTimeMinutes": "605",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "16",
+      "employeeId": "13",
+      "punchTimeMinutes": "587",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "15",
+      "employeeId": "11",
+      "punchTimeMinutes": "586",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "14",
+      "employeeId": "12",
+      "punchTimeMinutes": "585",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "13",
+      "employeeId": "10",
+      "punchTimeMinutes": "577",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "12",
+      "employeeId": "6",
+      "punchTimeMinutes": "577",
+      "punchDate": "2025-11-28"
+    },
+    {
+      "punchId": "11",
+      "employeeId": "13",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "10",
+      "employeeId": "12",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "9",
+      "employeeId": "6",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "8",
+      "employeeId": "11",
+      "punchTimeMinutes": "1027",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "7",
+      "employeeId": "10",
+      "punchTimeMinutes": "1026",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "6",
+      "employeeId": "10",
+      "punchTimeMinutes": "606",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "5",
+      "employeeId": "13",
+      "punchTimeMinutes": "606",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "4",
+      "employeeId": "11",
+      "punchTimeMinutes": "593",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "3",
+      "employeeId": "7",
+      "punchTimeMinutes": "591",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "2",
+      "employeeId": "12",
+      "punchTimeMinutes": "585",
+      "punchDate": "2025-11-27"
+    },
+    {
+      "punchId": "1",
+      "employeeId": "6",
+      "punchTimeMinutes": "575",
+      "punchDate": "2025-11-27"
+    }
+  ]
 }
